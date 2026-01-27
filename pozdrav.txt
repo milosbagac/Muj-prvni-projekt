@@ -1,1 +1,2 @@
 Ahoj, tohle je muj prvni radek v Gitu
+Tohle je druhy radek, ktery pridavam pozdeji.
