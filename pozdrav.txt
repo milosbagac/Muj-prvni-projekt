@@ -1,2 +1,2 @@
-Ahoj, tohle je muj prvni radek v Gitu
-Tohle je druhy radek, ktery pridavam pozdeji.
+Ahoj, tohle je muj prvni radek v Gitu.
+Zmìna 28.1.2026 9:50
